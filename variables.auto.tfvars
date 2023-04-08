@@ -1,0 +1,7 @@
+project_id = "red-parity-380313"
+cluster_name = "test-cluster"
+region = "us-central1"
+zones = "us-central1-a"
+network = "default"
+subnetwork = "default"
+gke_node_pools = "gke-pool"
